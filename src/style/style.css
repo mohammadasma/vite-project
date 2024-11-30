@@ -1,0 +1,103 @@
+  
+  /* General styles */
+.landing-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Header styles */
+.landing-header {
+    background-color: #007BFF;
+    color: white;
+    padding: 40px 20px;
+}
+
+.landing-header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.landing-header p {
+    font-size: 18px;
+}
+
+/* Main section styles */
+.landing-main {
+    margin-top: 40px;
+}
+
+/* Call to Action Section */
+.cta-section {
+    background-color: #fff;
+    padding: 40px 20px;
+    margin-bottom: 40px;
+}
+
+.cta-section h2 {
+    font-size: 30px;
+}
+
+.cta-buttons {
+    margin-top: 20px;
+}
+
+.cta-btn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.cta-btn:hover {
+    background-color: #218838;
+}
+
+/* Features Section */
+.features-section {
+    background-color: #f9f9f9;
+    padding: 30px 20px;
+}
+
+.features-section h3 {
+    font-size: 24px;
+}
+
+.features-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.features-section li {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Footer Section */
+.landing-footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.auth-links {
+    margin-top: 10px;
+}
+
+.auth-links a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.auth-links a:hover {
+    color: white;
+}
+
+
+ 
